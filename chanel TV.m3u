@@ -8,8 +8,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://210.210.155.35:80/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 group-title="TV LOKAL", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="TV LOKAL", BERITA SATU BACKUP
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
 #EXTINF:-1 group-title="TV LOKAL", BERITA SATU ENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="TV LOKAL", BIOSKOP INDONESIA
