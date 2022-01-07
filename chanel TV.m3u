@@ -75,7 +75,7 @@ https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 #EXTINF:-1 group-title="TV LOKAL", THE INDONESIA CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TRANS 7
-https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TRANS TV
 https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TVKU
