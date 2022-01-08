@@ -43,7 +43,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b388400
 #EXTINF:-1 group-title="TV LOKAL", MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", METRO TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MNC TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 #EXTINF:-1 group-title="TV LOKAL", Usee Prime
