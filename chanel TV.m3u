@@ -37,7 +37,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 #EXTINF:-1 group-title="TV LOKAL", JAK TV
 https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 #EXTINF:-1 group-title="TV LOKAL", KOMPAS TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MAGNA CHANNEL 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MALEO TV
@@ -65,7 +65,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 #EXTINF:-1 group-title="TV LOKAL", SEATODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 group-title="TV LOKAL", SCTV
-https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
+http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 group-title="TV LOKAL", SINEMA INDONESIA
 http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TATV
