@@ -79,7 +79,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:-1 group-title="TV LOKAL", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TV ONE
-https://cubmu.nomaden.tv:8279/TVONE/playlist.m3u8
+http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 group-title="TV LOKAL",Bali TV
