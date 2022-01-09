@@ -146,8 +146,6 @@ http://139.99.71.104:8888/live/blink6/yOttch0ZLF/9.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", CELESTIAL
 https://Lnk.ec/celestialMovie?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", CINEMAX
-http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/087
-#EXTINF:-1 group-title="TV ENTERTAIN", CINEMAX BACKUP
 https://Lnk.ec/cinemaxID?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", FAILARMY
 https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
@@ -188,7 +186,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN", MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN", WAKU WAKU
-https://Lnk.ec/waku2?shareext.ts
+ttps://Lnk.ec/waku2?shareext.ts
+h#EXTINF:-1 group-title="TV ENTERTAIN", ROCK EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN", ROCK ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8ttps://Lnk.ec/waku2?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN", ZEE BIOSKOP
+http://45.126.83.51/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 group-title="TV EDUKASI", DISCOVERY CHANNEL 
 https://Lnk.ec/FOXHD?shareext.ts
