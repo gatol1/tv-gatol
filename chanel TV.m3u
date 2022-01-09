@@ -53,7 +53,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 #EXTINF:-1 group-title="TV LOKAL", MYTV
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 #EXTINF:-1 group-title="TV LOKAL", NET TV
-https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", NUSANTARA TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", O Channel
@@ -61,7 +61,7 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 group-title="TV LOKAL", RCTI
 https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="TV LOKAL", RTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", SEATODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 group-title="TV LOKAL", SCTV
