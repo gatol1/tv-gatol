@@ -135,8 +135,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="TV ENTERTAIN", AXN 
 https://Lnk.ec/AXN?shareext.ts
-#EXTINF:-1 group-title="TV ENTERTAIN", AXN BACKUP 
-http://139.99.71.104:8888/live/blink6/yOttch0ZLF/9.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", CELESTIAL
 https://Lnk.ec/celestialMovie?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", CINEMAX
@@ -153,19 +151,11 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/109
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO 
 https://dik.si/hbosyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Backup 
-https://Lnk.ec/hboID?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO Family 
-https://dik.si/hbofamsyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Family Backup 
 https://Lnk.ec/hboFamID?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO Hits 
-https://dik.si/hbohitsyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Hits Backup 
 https://Lnk.ec/hboHitsID?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO Signature 
-https://dik.si/hbosigsyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Signature Backup 
 https://Lnk.ec/hboSigID?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", LOCAL MOVIE 90'S
 https://goldenlivektv.com/Live_TV/Channel_Local-now-movie_of-the-90's.m3u8
