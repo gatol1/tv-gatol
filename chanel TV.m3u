@@ -132,14 +132,28 @@ http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 group-title="TV SPORT", TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title="TV SPORT", bt2
-http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV SPORT", bt3
-http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV SPORT", eurosport2
 http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV SPORT", skyarts
 http://158.69.117.205:9039/skyarts/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV SPORT", Arena Sport 1
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=y_sel
+#EXTINF:-1 group-title="TV SPORT", Arena Sport 2
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=184&token=y_sel
+#EXTINF:-1 group-title="TV SPORT", Arena Sport 3
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=185&token=y_sel
+#EXTINF:-1 group-title="TV SPORT", Arena Sport 5
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=187&token=y_sel
+#EXTINF:-1,group-title="TV SPORT", Bein Sport 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="TV SPORT", Bein Sport 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="TV SPORT", Bein Sport 3
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="TV SPORT", Bein Sport 4
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="TV SPORT", Bein Sport 5
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
 #EXTINF:-1 group-title="TV ENTERTAIN", AXN 
 https://Lnk.ec/AXN?shareext.ts
