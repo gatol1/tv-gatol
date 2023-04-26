@@ -164,18 +164,6 @@ https://ddh2.salamus1.lol/ddh2/premium48/tracks-v1a1/mono.m3u8|referer=https://w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ddh2.salamus1.lol/ddh2/premium73/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="Sports" tvg-id="diemasport.bg" tvg-logo="https://i.imgur.com/oXvXzv5.png",Diema Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fls.salamus1.lol/fls/premium465/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="diemasport2.bg" tvg-logo="https://i.imgur.com/DJgF6pJ.png",Diema Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fls.salamus1.lol/fls/premium466/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="diemasport3.bg" tvg-logo="https://i.imgur.com/aFzN7Yh.png",Diema Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fls.salamus1.lol/fls/premium467/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
-
 #EXTINF:-1 group-title="Sports" tvg-id="digisport1romania.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://fls.salamus1.lol/fls/premium400/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
@@ -192,23 +180,6 @@ https://fls.salamus1.lol/fls/premium402/tracks-v1a1/mono.m3u8|referer=https://wi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://fls.salamus1.lol/fls/premium403/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="Sports" tvg-id="dubairacing1.ae" tvg-logo="https://i.imgur.com/0UyZUMt.png",Dubai Racing 1
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="dubairacing2.ae" tvg-logo="https://i.imgur.com/0UyZUMt.png",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="dubairacing3.ae" tvg-logo="https://i.imgur.com/0UyZUMt.png",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/xuFbLf7.png",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="dubaisports2.ae" tvg-logo="https://i.imgur.com/o8RMWHE.png",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="dubaisports3.ae" tvg-logo="https://i.imgur.com/XjOO8ri.png",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="elevensports1poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png",Eleven Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
