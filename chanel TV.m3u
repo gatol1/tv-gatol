@@ -159,32 +159,32 @@ http://thefirefox12537.github.io/streams/nosignal/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="arenasport1serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport1.png",Arena Sport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium429/index.m3u8
+http://webudit.webdicdn.lol/lb/premium429/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="arenasport2serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport2.png",Arena Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium433/index.m3u8
+http://webudit.webdicdn.lol/lb/premium433/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="arenasport3serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport3.png",Arena Sport 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium434/index.m3u8
+http://webudit.webdicdn.lol/lb/premium434/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="arenasport1premiumserbia.rs" tvg-logo="https://i.imgur.com/4KFUlzq.png",Arena Sport Premium 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium134/index.m3u8
+http://webudit.webdicdn.lol/lb/premium134/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="arenasport2premiumserbia.rs" tvg-logo="https://i.imgur.com/KH1FSo2.png",Arena Sport Premium 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium135/index.m3u8
+http://webudit.webdicdn.lol/lb/premium135/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="arenasport3premiumserbia.rs" tvg-logo="https://i.imgur.com/0omg8RO.png",Arena Sport Premium 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium139/index.m3u8
+http://webudit.webdicdn.lol/lb/premium139/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -231,97 +231,97 @@ http://103.152.118.53:80/streams/astro/arenabola_3/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="astrocricket.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium370/index.m3u8
+http://webudit.webdicdn.lol/lb/premium370/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest",Astro SuperSport 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium123/index.m3u8
+http://webudit.webdicdn.lol/lb/premium123/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest",Astro SuperSport 2
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium124/index.m3u8
+http://webudit.webdicdn.lol/lb/premium124/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest",Astro SuperSport 3
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium125/index.m3u8
+http://webudit.webdicdn.lol/lb/premium125/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest",Astro SuperSport 4
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium126/index.m3u8
+http://webudit.webdicdn.lol/lb/premium126/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="astrosupersport5.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest",Astro SuperSport 5
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium43/index.m3u8
+http://webudit.webdicdn.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1ar.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium91/index.m3u8
+http://webudit.webdicdn.lol/lb/premium91/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports2ar.id" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png",beIN Sports 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium92/index.m3u8
+http://webudit.webdicdn.lol/lb/premium92/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3ar.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium93/index.m3u8
+http://webudit.webdicdn.lol/lb/premium93/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports4ar.id" tvg-logo="https://i.postimg.cc/prmHz0sh/be-IN-SPORTS4-DIGITAL-Mono-picsay.png",beIN Sports 4
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium94/index.m3u8
+http://webudit.webdicdn.lol/lb/premium94/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports5ar.id" tvg-logo="https://i.postimg.cc/xTbQd4kB/be-IN-SPORTS5-DIGITAL-Mono-picsay.png",beIN Sports 5
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium95/index.m3u8
+http://webudit.webdicdn.lol/lb/premium95/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports6ar.id" tvg-logo="https://i.postimg.cc/cH4Z41Yc/be-IN-SPORTS6-DIGITAL-Mono-picsay.png",beIN Sports 6
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium96/index.m3u8
+http://webudit.webdicdn.lol/lb/premium96/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports7ar.id" tvg-logo="https://i.postimg.cc/VkQ80Wnv/be-IN-SPORTS7-DIGITAL-Mono-picsay.png",beIN Sports 7
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium97/index.m3u8
+http://webudit.webdicdn.lol/lb/premium97/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1en.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports English 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium61/index.m3u8
+http://webudit.webdicdn.lol/lb/premium61/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports2en.id" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png",beIN Sports English 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium90/index.m3u8
+http://webudit.webdicdn.lol/lb/premium90/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3en.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports English 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium46/index.m3u8
+http://webudit.webdicdn.lol/lb/premium46/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1france.fr" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports France 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium116/index.m3u8
+http://webudit.webdicdn.lol/lb/premium116/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports2france.fr" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png",beIN Sports France 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium117/index.m3u8
+http://webudit.webdicdn.lol/lb/premium117/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3france.fr" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports France 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium118/index.m3u8
+http://webudit.webdicdn.lol/lb/premium118/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
 http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
@@ -347,17 +347,17 @@ http://103.152.118.53:80/streams/astro/dash-linear/dash-wv/linear/2705/default.m
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1premiumar.id" tvg-logo="https://i.postimg.cc/B6RvMCM2/beinsportspremium1-picsay.png",beIN Sports Premium 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium98/index.m3u8
+http://webudit.webdicdn.lol/lb/premium98/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports2premiumar.id" tvg-logo="https://i.postimg.cc/nLxpgGhg/beinsportspremium2-picsay.png",beIN Sports Premium 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium99/index.m3u8
+http://webudit.webdicdn.lol/lb/premium99/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3premiumar.id" tvg-logo="https://i.postimg.cc/66PwtXQd/beinsportspremium3-picsay.png",beIN Sports Premium 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium100/index.m3u8
+http://webudit.webdicdn.lol/lb/premium100/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1thailand.th" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Thailand 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -378,22 +378,22 @@ http://thefirefox12537.github.io/streams/nosignal/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1turkey.tr" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Turkey 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium62/index.m3u8
+http://webudit.webdicdn.lol/lb/premium62/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports2turkey.tr" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png",beIN Sports Turkey 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium63/index.m3u8
+http://webudit.webdicdn.lol/lb/premium63/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3turkey.tr" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Turkey 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium64/index.m3u8
+http://webudit.webdicdn.lol/lb/premium64/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports4turkey.tr" tvg-logo="https://i.postimg.cc/prmHz0sh/be-IN-SPORTS4-DIGITAL-Mono-picsay.png",beIN Sports Turkey 4
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium67/index.m3u8
+http://webudit.webdicdn.lol/lb/premium67/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://i.postimg.cc/YSxMHL49/be-IN-SPORTSXTRA-plutotv-picsay.png",beIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId
@@ -422,22 +422,22 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT Sports 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium31/index.m3u8
+http://webudit.webdicdn.lol/lb/premium31/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="btsport2.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT Sports 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium32/index.m3u8
+http://webudit.webdicdn.lol/lb/premium32/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="btsport3.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",BT Sports 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium33/index.m3u8
+http://webudit.webdicdn.lol/lb/premium33/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="btsport4.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",BT Sports 4
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium34/index.m3u8
+http://webudit.webdicdn.lol/lb/premium34/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/05/boxing-tv-logo-white.png",Boxing TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
@@ -445,17 +445,17 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="canalplussportpoland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium48/index.m3u8
+http://webudit.webdicdn.lol/lb/premium48/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="canalplussport2poland.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",Canal+ Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium73/index.m3u8
+http://webudit.webdicdn.lol/lb/premium73/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/CBS_Sports_Network_2021_%28Blue%29.svg/revision/latest/scale-to-width-down/640",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium308/index.m3u8
+http://webudit.webdicdn.lol/lb/premium308/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="cctv5.cn" tvg-logo="https://i.imgur.com/63sFr5t.png",CCTV-5
 http://103.152.118.53:80/streams/ceceteve-5/index.m3u8
@@ -469,7 +469,7 @@ http://103.152.118.53:80/streams/ceceteve-16/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/640px-Combate_logo.svg.png",Combate
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium89/index.m3u8
+http://webudit.webdicdn.lol/lb/premium89/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="DAZN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",DAZN 1 Deutschland
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -494,12 +494,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="dazn3spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",DAZN 3 España
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium447/index.m3u8
+http://webudit.webdicdn.lol/lb/premium447/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="dazn4spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",DAZN 4 España
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium448/index.m3u8
+http://webudit.webdicdn.lol/lb/premium448/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="daznf1.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -514,37 +514,37 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="diemasport.bg" tvg-logo="https://i.imgur.com/oXvXzv5.png",Diema Sport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium465/index.m3u8
+http://webudit.webdicdn.lol/lb/premium465/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="diemasport2.bg" tvg-logo="https://i.imgur.com/DJgF6pJ.png",Diema Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium466/index.m3u8
+http://webudit.webdicdn.lol/lb/premium466/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="diemasport3.bg" tvg-logo="https://i.imgur.com/aFzN7Yh.png",Diema Sport 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium467/index.m3u8
+http://webudit.webdicdn.lol/lb/premium467/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="digisport1romania.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium400/index.m3u8
+http://webudit.webdicdn.lol/lb/premium400/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="digisport2romania.ru" tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium401/index.m3u8
+http://webudit.webdicdn.lol/lb/premium401/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="digisport3romania.ro" tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium402/index.m3u8
+http://webudit.webdicdn.lol/lb/premium402/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="digisport4romania.ro" tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium403/index.m3u8
+http://webudit.webdicdn.lol/lb/premium403/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="dubairacing1.ae" tvg-logo="https://i.imgur.com/0UyZUMt.png",Dubai Racing 1
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
@@ -570,47 +570,47 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="elevensports1poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png",Eleven Sports 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium71/index.m3u8
+http://webudit.webdicdn.lol/lb/premium71/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="elevensports2poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium72/index.m3u8
+http://webudit.webdicdn.lol/lb/premium72/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="elevensports3poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",Eleven Sports 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium428/index.m3u8
+http://webudit.webdicdn.lol/lb/premium428/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="espn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png",ESPN 1 US
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium44/index.m3u8
+http://webudit.webdicdn.lol/lb/premium44/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="espn2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png",ESPN 2 US
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium45/index.m3u8
+http://webudit.webdicdn.lol/lb/premium45/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="espndeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium375/index.m3u8
+http://webudit.webdicdn.lol/lb/premium375/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="espnu.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png",ESPNU
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium316/index.m3u8
+http://webudit.webdicdn.lol/lb/premium316/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="eurosport1uk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png",EuroSport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium524/index.m3u8
+http://webudit.webdicdn.lol/lb/premium524/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="eurosport2uk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png",EuroSport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium525/index.m3u8
+http://webudit.webdicdn.lol/lb/premium525/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="fightsports.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -620,12 +620,12 @@ http://103.152.118.53:80/streams/visyen/dash/FightSports/master.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="foxsports1.us" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_2021_m.png",FOX Sports 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium39/index.m3u8
+http://webudit.webdicdn.lol/lb/premium39/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="foxsports2.us" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_2021_m.png",FOX Sports 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/eplayerfs2/index.m3u8
+http://webudit.webdicdn.lol/lb/eplayerfs2/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/WA1Scah.png",FOX Sports 1 Mexico
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -679,27 +679,27 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="match.ru" tvg-logo="https://3.bp.blogspot.com/-Ywd23nsIxeU/Wwq8P5mSblI/AAAAAAAATMI/UH-GSli4hIAu_cIvDbiBH2fhdz6Q7mGVACLcBGAs/s1600/match_ru_tv.png",MATCH!
 #EXTVLCOPT:http-referrer=https://besthdplayer.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium11/index.m3u8
+http://webudit.webdicdn.lol/lb/premium11/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="matchfutbol1.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Match%21_Futbol_1_Stacked.svg/revision/latest/scale-to-width-down/640",MATCH! Futbol 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium136/index.m3u8
+http://webudit.webdicdn.lol/lb/premium136/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="matchfutbol2.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Match%21_Futbol_2_Stacked.svg/revision/latest/scale-to-width-down/640",MATCH! Futbol 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium137/index.m3u8
+http://webudit.webdicdn.lol/lb/premium137/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="matchfutbol3.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Match%21_Futbol_3_Stacked.svg/revision/latest/scale-to-width-down/640",MATCH! Futbol 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium138/index.m3u8
+http://webudit.webdicdn.lol/lb/premium138/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="mlbnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/640px-MLBNetworkLogo.svg.png",MLB Network
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium399/index.m3u8
+http://webudit.webdicdn.lol/lb/premium399/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.mmatv.co.uk/wp-content/uploads/2016/01/MMATV-logo-1.png",MMA TV
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -727,17 +727,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 group-title="Sports" tvg-id="movistarlaliga.es" tvg-logo="https://i.imgur.com/HPMLSGb.png",Movistar LaLiga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium538/index.m3u8
+http://webudit.webdicdn.lol/lb/premium538/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="movistarligadecampeones.es" tvg-logo="https://i.imgur.com/mBl0IxY.png",Movistar Liga de Campeones
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium435/index.m3u8
+http://webudit.webdicdn.lol/lb/premium435/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png",NBA TV
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium404/index.m3u8
+http://webudit.webdicdn.lol/lb/premium404/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="golfchannel.us" tvg-logo="https://i.postimg.cc/kMbs8b0H/logo.png",NBC Golf Channel
 http://103.152.118.53:80/streams/golefcenel/index.m3u8
@@ -745,7 +745,7 @@ http://103.152.118.53:80/streams/golefcenel/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="nflnetwork.us" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/nfl-network-logo-1-e1663261658553-768x321.png",NFL Network
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium405/index.m3u8
+http://webudit.webdicdn.lol/lb/premium405/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png/revision/latest",Optus Sports 1
 #http://103.152.118.53:80/streams/optus_1/index.m3u8
@@ -783,42 +783,42 @@ http://webudit.cdnhks.lol/lb/premium405/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="orangesport1.ro" tvg-logo="https://i.imgur.com/6bnikru.png",Orange Sport 1 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium439/index.m3u8
+http://webudit.webdicdn.lol/lb/premium439/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="orangesport2.ro" tvg-logo="https://i.imgur.com/2FkgbCd.png",Orange Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium440/index.m3u8
+http://webudit.webdicdn.lol/lb/premium440/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="orangesport3.ro" tvg-logo="https://i.imgur.com/C8tCTh1.png",Orange Sport 3 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium441/index.m3u8
+http://webudit.webdicdn.lol/lb/premium441/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="orangesport4.ro" tvg-logo="https://i.imgur.com/PJxNAre.png",Orange Sport 4 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium442/index.m3u8
+http://webudit.webdicdn.lol/lb/premium442/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="polsatsport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/640px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium47/index.m3u8
+http://webudit.webdicdn.lol/lb/premium47/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="polsatsportextra.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/640px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium50/index.m3u8
+http://webudit.webdicdn.lol/lb/premium50/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="polsatsportnews.pl" tvg-logo="https://i.imgur.com/td0rW6W.png",Polsat Sport News
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium129/index.m3u8
+http://webudit.webdicdn.lol/lb/premium129/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="polsatsportpremium1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/640px-Polsat_Sport_Premium_1_2021_gradient.svg.png",Polsat Sport Premium 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium68/index.m3u8
+http://webudit.webdicdn.lol/lb/premium68/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -826,57 +826,57 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="rmcsport1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Logo_RMC_Sport_1_2018.svg/revision/latest/scale-to-width-down/640",RMC Sport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium119/index.m3u8
+http://webudit.webdicdn.lol/lb/premium119/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="rmcsport2.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/640",RMC Sport 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium120/index.m3u8
+http://webudit.webdicdn.lol/lb/premium120/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsaction.uk" tvg-logo="https://i.imgur.com/XlASTQb.png",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium37/index.m3u8
+http://webudit.webdicdn.lol/lb/premium37/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsarena.uk" tvg-logo="https://i.imgur.com/m01PzKx.png",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium36/index.m3u8
+http://webudit.webdicdn.lol/lb/premium36/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportscricket.uk" tvg-logo="https://i.imgur.com/EoYFmY3.png",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium65/index.m3u8
+http://webudit.webdicdn.lol/lb/premium65/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsf1.uk" tvg-logo="https://i.imgur.com/PsdeNhE.png",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium60/index.m3u8
+http://webudit.webdicdn.lol/lb/premium60/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsfootball.uk" tvg-logo="https://i.imgur.com/Q0P923u.png",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium35/index.m3u8
+http://webudit.webdicdn.lol/lb/premium35/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsgolf.uk" tvg-logo="https://i.imgur.com/fFcM6UT.png",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium70/index.m3u8
+http://webudit.webdicdn.lol/lb/premium70/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsmainevent.uk" tvg-logo="https://i.imgur.com/xtcDjVf.png",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium38/index.m3u8
+http://webudit.webdicdn.lol/lb/premium38/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportsmix.uk" tvg-logo="https://i.imgur.com/6ndlrZ1.png",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium449/index.m3u8
+http://webudit.webdicdn.lol/lb/premium449/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="skysportspremierleague.uk" tvg-logo="https://i.imgur.com/DSrBVhv.png",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium130/index.m3u8
+http://webudit.webdicdn.lol/lb/premium130/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="soccerchannel.id" tvg-logo="https://i.imgur.com/ywxSwV3.png",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -944,82 +944,82 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 #EXTINF:-1 group-title="Sports" tvg-id="SS Action" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png",SuperSport Action
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium420/index.m3u8
+http://webudit.webdicdn.lol/lb/premium420/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Football" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",SuperSport Football
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium56/index.m3u8
+http://webudit.webdicdn.lol/lb/premium56/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Grandstand" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png",SuperSport Grandstand
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium412/index.m3u8
+http://webudit.webdicdn.lol/lb/premium412/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Golf" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-golf.png",SuperSport Golf
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium422/index.m3u8
+http://webudit.webdicdn.lol/lb/premium422/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS LaLiga" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-la-liga.png",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium415/index.m3u8
+http://webudit.webdicdn.lol/lb/premium415/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Motorsport" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png",SuperSport Motorsport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium424/index.m3u8
+http://webudit.webdicdn.lol/lb/premium424/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS PL" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium414/index.m3u8
+http://webudit.webdicdn.lol/lb/premium414/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS PSL" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",SuperSport PSL
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium413/index.m3u8
+http://webudit.webdicdn.lol/lb/premium413/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Rugby" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby.png",SuperSport Rugby
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium421/index.m3u8
+http://webudit.webdicdn.lol/lb/premium421/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Tennis" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-tennis.png",SuperSport Tennis
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium423/index.m3u8
+http://webudit.webdicdn.lol/lb/premium423/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Variety 1" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png",SuperSport Variety 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium416/index.m3u8
+http://webudit.webdicdn.lol/lb/premium416/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Variety 2" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png",SuperSport Variety 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium417/index.m3u8
+http://webudit.webdicdn.lol/lb/premium417/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Variety 3" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-3.png",SuperSport Variety 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium418/index.m3u8
+http://webudit.webdicdn.lol/lb/premium418/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="SS Variety 4" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png",SuperSport Variety 4
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium419/index.m3u8
+http://webudit.webdicdn.lol/lb/premium419/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="tennischannel.us" tvg-logo="https://i.imgur.com/VWQk2S1.png",Tennis Channel
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium40/index.m3u8
+http://webudit.webdicdn.lol/lb/premium40/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="tntbrazil.br" tvg-logo="https://i.imgur.com/NqS48Rn.png",TNT
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium87/index.m3u8
+http://webudit.webdicdn.lol/lb/premium87/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -1094,27 +1094,27 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png",TSN 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium111/index.m3u8
+http://webudit.webdicdn.lol/lb/premium111/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="tsn2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png",TSN 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium112/index.m3u8
+http://webudit.webdicdn.lol/lb/premium112/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="tsn3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/640px-TSN3.svg.png",TSN 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium113/index.m3u8
+http://webudit.webdicdn.lol/lb/premium113/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="tsn4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/640px-TSN4.svg.png",TSN 4
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium114/index.m3u8
+http://webudit.webdicdn.lol/lb/premium114/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="tsn5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/640px-TSN5.svg.png",TSN 5
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium115/index.m3u8
+http://webudit.webdicdn.lol/lb/premium115/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="tvnsportsasia.hk" tvg-logo="https://i.imgur.com/DNkR0is.png",tvN Sports
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
@@ -1134,7 +1134,7 @@ http://thefirefox12537.github.io/streams/nosignal/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium343/index.m3u8
+http://webudit.webdicdn.lol/lb/premium343/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="useesport.id" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1
 http://103.152.118.53:80/streams/yusisport/index.m3u8
@@ -1160,12 +1160,12 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #EXTINF:-1 group-title="Sports" tvg-id="viaplaysports1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Viaplay_Sports_1.svg/revision/latest/scale-to-width-down/640",ViaPlay Sports 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium451/index.m3u8
+http://webudit.webdicdn.lol/lb/premium451/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="viaplaysports2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Viaplay_Sports_2.svg/revision/latest/scale-to-width-down/640",ViaPlay Sports 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium550/index.m3u8
+http://webudit.webdicdn.lol/lb/premium550/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="wwenetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/640px-WWE_Logo.svg.png",WWE Network
 http://103.152.118.53:80/streams/astro/weweenetworek/index.m3u8
@@ -1183,17 +1183,17 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #EXTINF:-1 group-title="Sports" tvg-id="ziggosportracing.nl" tvg-logo="https://i.imgur.com/XbMMARG.png",Ziggo Sports Racing
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium396/index.m3u8
+http://webudit.webdicdn.lol/lb/premium396/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="ziggosportselect.nl" tvg-logo="https://i.imgur.com/xpGeQ9V.png",Ziggo Sports Select
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium393/index.m3u8
+http://webudit.webdicdn.lol/lb/premium393/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="ziggosportvoetbal.nl" tvg-logo="https://i.imgur.com/Ktyj7qJ.png",Ziggo Sports Voetbal
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://webudit.cdnhks.lol/lb/premium398/index.m3u8
+http://webudit.webdicdn.lol/lb/premium398/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="zonadazn.es" tvg-logo="https://i.imgur.com/xV7GOre.png",Zona DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1228,9 +1228,3 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #EXTINF:-1 group-title="Sports" tvg-id="realmadridtv.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-
-
-
-
-
-
